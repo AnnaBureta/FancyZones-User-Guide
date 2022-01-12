@@ -16,7 +16,8 @@ FancyZones is one of the PowerToys utilities. It is a window manager that enable
 
 2. Installation of PowerToys
    
-    1. Install
+    1. Visit the [Microsoft PowerToys GitHub releases page](https://github.com/microsoft/PowerToys/releases/tag/v0.53.1).
+    2. 
 
 
 

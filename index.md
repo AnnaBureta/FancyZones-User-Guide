@@ -61,11 +61,11 @@ You can define hotkeys to quickly move between your custom layouts:
 
 # Glossary
 
-**Canvas** - a type of custom zone layouts in FancyZones 
+**Canvas** - a type of custom zone layout in FancyZones 
 
 **FancyZones** - a window manager, one of PowerToys utilities
 
-**Grid** - a type of custom zone layouts in FancyZones 
+**Grid** - a type of custom zone layout in FancyZones 
 
 **hotkey** - a combination of keys that gives quick access to a particular function within a computer program
 

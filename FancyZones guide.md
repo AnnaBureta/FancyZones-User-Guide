@@ -22,7 +22,7 @@
    
         **Grid** model
 
-        In the **Grid** model, you start with a three column grid that you can adapt it to suit your needs: 
+        In the **Grid** model, you start with a three column grid that you can adapt to suit your needs: 
         - To divide a zone, click your mouse.
         - To rotate the divider, hold down the **Shift** key.
         - To move a divider, click on the thumb and drag.
@@ -32,19 +32,17 @@
 
         In the **Canvas** model, you start with a blank layout and you can add zones that can be dragged and resized. You can use keyboard for zone editing:
 
-        - Use the **arrows** (up, down, left, right) to move a zone by 10 pixels.
-        - Use **Ctrl+arrow** to move a zone by 1 pixel.
-        - Use the **Shift+arrow** keys to resize a zone by 10 pixels (5 per edge).
-        - Use **Ctrl+Shift+arrow** to resize a zone by 2 pixels (1 per edge).
-        - To switch between the editor and dialog, press the **Ctrl+Tab** keys.
+        - The **arrows** (up, down, left, right) - to move a zone by 10 pixels.
+        - **Ctrl+arrow** - to move a zone by 1 pixel.
+        - **Shift+arrow** - to resize a zone by 10 pixels (5 per edge).
+        - **Ctrl+Shift+arrow** - to resize a zone by 2 pixels (1 per edge).
+        - **Ctrl+Tab** - to switch between the editor and dialog.
     
-    4. Click **Save & apply**
-       
-
-   
-       
+    4. Click **Save & apply**  
 
     b. Keybind setup
+
+        1. 
 
 
 

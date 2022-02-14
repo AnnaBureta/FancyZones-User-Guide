@@ -48,7 +48,8 @@ Microsoft **PowerToys** is an opensource set of utilities for Windows users. The
   - **Shift+arrow** - to resize a zone by 10 pixels (5 per edge)
   - **Ctrl+Shift+arrow** - to resize a zone by 2 pixels (1 per edge)
   - **Ctrl+Tab** - to switch between the editor and dialog.
-4. Click **Save & apply**  
+    
+4. Click **Save & apply**.  
 
 ## b. Keybind setup
 

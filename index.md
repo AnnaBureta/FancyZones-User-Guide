@@ -22,7 +22,7 @@ Microsoft **PowerToys** is an opensource set of utilities for Windows users. The
 
 # 3. Setup
 
-You can set up:
+You can set up the following:
 
 - custom layouts
 - custom hotkeys that let you move between the layouts.

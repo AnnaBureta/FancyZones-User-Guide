@@ -6,7 +6,7 @@ description: Setup of FancyZones
 has_children: true
 ---
 
-## Setup
+# Setup
 
 You can set up the following:
 

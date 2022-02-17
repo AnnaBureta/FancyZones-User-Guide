@@ -5,7 +5,7 @@ parent: Setup
 nav_order: 1
 has_children: true
 ---
-## a. Custom layout setup
+# Custom layout setup
 
 1. Press **Win+Shift+'** to open the zones editor.
 2. Click the **Create new layout** button at the bottom-right.

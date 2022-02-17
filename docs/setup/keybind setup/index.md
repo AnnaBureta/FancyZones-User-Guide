@@ -4,6 +4,7 @@ title: Keybind setup
 parent: Setup
 nav_order: 2
 ---
+
 # Keybind setup
 
 You can define hotkeys to quickly move between your custom layouts:

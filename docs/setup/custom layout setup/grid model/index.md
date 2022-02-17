@@ -2,6 +2,7 @@
 layout: default
 title: Grid model
 parent: Custom layout setup
+grand_parent: Setup
 nav_order: 1
 ---
 **Grid** model

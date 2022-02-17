@@ -11,8 +11,8 @@ has_children: true
 2. Click the **Create new layout** button at the bottom-right.
 3. Choose your preferred zone layout: **Grid** or **Canvas**: 
    
-   - **Grid** model
+   - [**Grid** model](grid%20model/index.md)
 
-   - **Canvas** model
+   - [**Canvas** model](canvas%20model/index.md)
     
 4. Click **Save & apply**.

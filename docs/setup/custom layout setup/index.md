@@ -3,6 +3,7 @@ layout: default
 title: Custom layout setup
 parent: Setup
 nav_order: 1
+has_children: true
 ---
 ## a. Custom layout setup
 

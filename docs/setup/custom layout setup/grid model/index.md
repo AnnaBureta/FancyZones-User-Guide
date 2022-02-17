@@ -5,7 +5,8 @@ parent: Custom layout setup
 grand_parent: Setup
 nav_order: 1
 ---
-**Grid** model
+
+# **Grid** model
 
 In the **Grid** model, you start with a three column grid that you can adapt to suit your needs:
 

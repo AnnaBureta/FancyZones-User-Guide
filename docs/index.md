@@ -4,7 +4,7 @@ title: Installation of PowerToys
 nav_order: 2
 ---
 
-# 2.  Installation of PowerToys
+# Installation of PowerToys
    
    
 1. Go to the [Microsoft PowerToys GitHub releases page](https://github.com/microsoft/PowerToys/releases/tag/v0.53.1).

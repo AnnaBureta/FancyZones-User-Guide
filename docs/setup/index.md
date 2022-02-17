@@ -6,6 +6,8 @@ description: Setup of FancyZones
 has_children: true
 ---
 
+## Setup
+
 You can set up the following:
 
 - custom layouts

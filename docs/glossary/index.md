@@ -3,7 +3,7 @@ layout: default
 title: Glossary
 nav_order: 4
 ---
-# Glossary
+## Glossary
 
 **Canvas** - a type of custom zone layout in FancyZones 
 

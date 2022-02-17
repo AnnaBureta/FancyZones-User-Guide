@@ -1,3 +1,12 @@
+---
+layout: default
+title: Overview
+nav_order: 1
+description: Overview of PowerToys and FancyZones
+permalink: /
+---
+
+
 - [1. Overview](#1-overview)
 - [2.  Installation of PowerToys](#2--installation-of-powertoys)
 - [3. Setup](#3-setup)
